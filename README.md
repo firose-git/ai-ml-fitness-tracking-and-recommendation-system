@@ -116,7 +116,6 @@ Feel free to fork the repository and submit a pull request.
 ---
 
 ## Author
-> **Mohamed Firose**
-> **Software Developer | ML Enthusiast**
+> **Mohamed Firose | Software Developer | ML Enthusiast**
 
 > **Happy Coding!**
